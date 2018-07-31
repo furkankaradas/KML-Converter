@@ -101,7 +101,7 @@ def write_json(all_list):
         json.dump(data, outfile, ensure_ascii=False)
 
 def display():
-    print("KML to EXCEL or JSON Converter")
+    print("Converter from KML to EXCEL or JSON")
     while (True):
         print(15 * "*")
         ch = input("1.Converter\n2.Exit\nPlease Enter Choose:")
