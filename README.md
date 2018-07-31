@@ -1,2 +1,2 @@
 # KML Converter
-# Example Converter from KML to EXCEL or JSON for Google Earth.
+Example Converter from KML to EXCEL or JSON for Google Earth.
