@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Söke-Çivril.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline3">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline4">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline5">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline7">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline8">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline9">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline12">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline13">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline15">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline17">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline18">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline19">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline21">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline23">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline25">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline26">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline27">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline28">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline29">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline32">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline33">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline34">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline35">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline38">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline39">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline41">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline42">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline44">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline45">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline46">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline48">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline49">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline50">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline52">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="inline53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline55">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Söke-Çivril</name>
+		<open>1</open>
+		<Placemark>
+			<name>Söke</name>
+			<description>121-I-11
+1000</description>
+			<styleUrl>#inline31</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.40983122383923,37.7533986883778,38.95546689957105 24.41111046853238,37.75672515942672,41.58923331128565
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Ortaklar</name>
+			<description>121-I-2145
+1000</description>
+			<styleUrl>#inline47</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.5088053360049,37.88640043977649,62.20903516064201 24.49885154893406,37.88732566988227,62.6977344610786
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Germencik</name>
+			<description>121-I-212
+1000</description>
+			<styleUrl>#inline2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.5903561039289,37.87366318407128,62.0693604206756 24.60094011583966,37.87280670027076,61.12321579794652
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>İncirliova</name>
+			<description>121-I-13
+1000</description>
+			<styleUrl>#inline20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.72219568119351,37.85422927944586,43.85692546112078 24.72983111609259,37.85292375254461,44.18738116039192
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aydın</name>
+			<description>121-I-14
+1000</description>
+			<styleUrl>#inline51</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.83826537499084,37.84783067766391,60.96660034120782 24.84311500881966,37.84828745451058,72.59527647770008
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Umurlu</name>
+			<description>121-I-10
+1000</description>
+			<styleUrl>#inline22</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.95984182270354,37.85296309874401,53.53078759370265 24.95200476951771,37.85209263832748,48.11119349733448
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Köşk</name>
+			<description>121-I-12
+1000</description>
+			<styleUrl>#inline16</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.05183317147537,37.85147098508206,70.83612745141896 24.05467612894704,37.85157802848769,65.48974336363357
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Sultanhisar</name>
+			<description>121-I-14
+1000</description>
+			<styleUrl>#inline30</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					24.15306246644354,37.88635990814733,78.1194837394829 24.15863044569289,37.88839067943476,81.0367061358274
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Atça</name>
+			<description>121-I-15
+1000</description>
+			<styleUrl>#inline53</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					28.20979231092938,37.88319322764021,78.28423327764833 28.214321525849996,37.88412818137591,78.76049625468063
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Nazilli</name>
+			<description>121-I-16
+1000</description>
+			<styleUrl>#inline36</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					27.32515640968484,37.91405512463274,86.13068566352692 27.33369573413551,37.91418140274801,87.08994964793688
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Kuyucak</name>
+			<description>121-I-17
+1000</description>
+			<styleUrl>#inline24</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					27.45370768915717,37.90856104652108,87.44120132080836 27.4615997550057,37.91018286193749,94.12880173957942
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Horsunlu</name>
+			<description>121-I-18
+1000</description>
+			<styleUrl>#inline6</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					27.59718472624963,37.91572855336965,107.3460905581099 27.58714279373451,37.91416142902055,105.116710618086
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Buharkent</name>
+			<description>121-I-21
+1000</description>
+			<styleUrl>#inline0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					23.74092053365743,37.95203188789215,133.4548077036616 28.73690840852755,33.95304277306369,132.4604405117584
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Sarayköy</name>
+			<description>121-I-29
+1000</description>
+			<styleUrl>#inline37</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					27.92361486876622,37.91562291541661,169.8305101358057 27.9286911539776,37.91215758577279,169.8645369397931
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
